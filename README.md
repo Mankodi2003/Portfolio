@@ -18,7 +18,7 @@ A sleek, responsive portfolio website built with **React**, **Vite**, and **Tail
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/qa-portfolio.git
+git clone https://github.com/Mankodi2003/qa-portfolio.git
 cd qa-portfolio
 npm install
 npm run dev
